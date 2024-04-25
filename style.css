@@ -1,0 +1,84 @@
+/* Write your code here: */
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    font-weight: 700;
+    font-size: 20px;
+    background:linear-gradient(skyblue,white);
+    margin: 40px;
+}
+
+.container {
+    background: linear-gradient(rgb(199, 68, 90),skyblue);
+    color: black;
+    padding: 20px;
+    border-radius: 8px;
+   
+
+}
+.Certificate li {
+      font-weight: 400;
+      font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1 {
+    text-align: center;
+    color: black;
+    
+}
+ 
+.info {
+    margin-bottom: 15px;
+}
+
+.info p {
+    margin: 5px 0;
+}
+hr {
+    border: 3px solid black;
+}
+.summary p{
+       display: grid;
+       grid-template-columns: 1fr 2fr;
+       font-weight: 400;
+       font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.education {
+    margin-top: 120px;
+ 
+    
+}
+.education  li {
+    font-weight: 400;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+   
+   
+}
+.work-experience   {
+    font-weight: 400;
+    margin-left: 800px;
+    margin-top: -470px;
+}
+.projects-1   p{
+    font-weight: 400;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+} 
+.project-2  p{
+    font-weight: 400;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.gprojects {
+    font-weight: 400;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-top: -10px;
+}
+.seminars li {
+    font-weight: 400;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.Hobbies li {
+   font-weight: 400;
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
