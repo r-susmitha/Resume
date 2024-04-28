@@ -1,1 +1,1 @@
-# Resume.html
+This repo hosts resume website code
